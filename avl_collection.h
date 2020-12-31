@@ -1,8 +1,6 @@
 
 //----------------------------------------------------------------------
 // Author: Makoto Kewish
-// Course: CPSC 223, Spring 2020
-// Assign: 10
 // File:   avl_collection.h
 // Description:
 //            This program creates an AVL binary tree key-value
