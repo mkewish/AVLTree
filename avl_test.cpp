@@ -1,8 +1,6 @@
 //----------------------------------------------------------------------
 // Author: Makoto Kewish
-// Course: CPSC 223, Spring 2020
-// Assign: 10
-// File:   hw10_test.cpp
+// File:   avl_test.cpp
 //
 // Description:
 //              This program is the test file for the AVL binary tree
