@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------
 // AUTHOR: S. Bowers
-// COURSE: CPSC 223, Spring 2020
+// DATE: Spring 2020
 // FILE:   test_driver.h
 //
 // DESCRIPTION: Simple class for running key-value collection
