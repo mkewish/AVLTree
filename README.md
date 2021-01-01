@@ -27,7 +27,7 @@ make
 
 ## Performance Test
 ```
-./avlPerf <insert .txt file here>
+./avlPerf <INSERT .TXT FILE HERE>
 ```
 
 ## Example
