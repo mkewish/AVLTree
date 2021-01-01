@@ -11,6 +11,7 @@ After the performance test, the terminal will display instances of:
 - sort
 
 in the test file and arranged by the number of calls, total time, and average time for each. 
+The height of the tree will also be displayed at the end.
 
 **Note:** Must have CMake installed.
 
