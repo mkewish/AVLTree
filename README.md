@@ -1,12 +1,18 @@
 # AVLTree
 
-This program creates an AVL self-balancing binary tree data structure written in C++ and runs it through a series of performance tests.
+This program creates an AVL self-balancing binary tree data structure written in C++ and runs it through a series of performance tests of randomly generated key-value pairs.
 
-After the performance test, the terminal should display:
--
--
--
+After the performance test, the terminal will display instances of:
 
+- add
+- remove
+- find (or search)
+- range find
+- sort
+
+in the test file and arranged by the number of calls, total time, and average time for each. 
+
+**Note:** Must have CMake installed.
 
 ## Setup CMake in Terminal
 ```
@@ -19,7 +25,7 @@ make
 ./avlTst
 ```
 
-## Performance Test (using a .txt file with key-value pairs)
+## Performance Test
 ```
 ./avlPerf <insert .txt file here>
 ```
@@ -28,7 +34,3 @@ make
 ```
 ./avlPerf rand-10k.txt
 ```
-
-
-The
-**Note:** Must have CMake installed.
