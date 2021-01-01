@@ -2,7 +2,7 @@
 
 This program creates an AVL self-balancing binary tree data structure written in C++ and runs it through a series of performance tests of randomly generated key-value pairs.
 
-An initial test () can be called to check if the AVL tree is working.
+An initial test (avl_test.cpp) can be called to check if the AVL tree has been implemented correctly.
 
 After the performance test, the terminal will display instances of:
 
