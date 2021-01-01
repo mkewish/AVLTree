@@ -6,4 +6,4 @@ This creates an AVL self-balancing binary tree data structure written in C++ and
 
 
 
-**Note:** Must have Cmake installed.
+**Note:** Must have CMake installed.
